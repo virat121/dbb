@@ -1,0 +1,9 @@
+1. sudo apt-get install sbt
+2. sbt new scala/hello-world.g8
+  write the project name then
+     cd <project name>
+3. change in src/main/scala
+     gedit Main.scala  (write your code in it)
+
+4.sbt compile
+5.sbt run
