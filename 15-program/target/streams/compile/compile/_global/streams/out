@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/15-program/src/main/scala/Main.scala:5:58: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0mSparkConf().setAppName("SumWithFoldAggregate").setMaster("loc[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/15-program/src/main/scala/Main.scala:6:6: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0mal[*]")[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/15-program/src/main/scala/Main.scala:18:1: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

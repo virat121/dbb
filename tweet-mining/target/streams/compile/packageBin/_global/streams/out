@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/classes/TweetUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/classes/TweetUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetUtils$Tweet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/classes/TweetUtils$Tweet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tweetmining$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/classes/tweetmining$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tweetmining.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/classes/tweetmining.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetUtils$Tweet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/tweet-mining/target/scala-2.13/classes/TweetUtils$Tweet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

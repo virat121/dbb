@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/19-program/src/main/scala/Main.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval ssc =new StreamingContext(sc, Seconds (2))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/19-program/src/main/scala/Main.scala:5:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval streams= ssc.socketTextStream("localhost", 4444, org.apache.spark.storage.StorageLevel.MEMORY_ONLY)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/19-program/src/main/scala/Main.scala:6:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval wordcount =streams.flatMap(_.split(" ")).map(w=> (w,1)).reduceByKey(_+_)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/19-program/src/main/scala/Main.scala:7:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mwordcount.print[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/19-program/src/main/scala/Main.scala:8:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mssc.start[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/virat/BDT_LAB/bdt-lab/19-program/src/main/scala/Main.scala:10:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mnc -lk 4444[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

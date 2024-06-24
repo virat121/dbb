@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/virat/BDT_LAB/bdt-lab/24-program/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ItemRDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/bdt-lab/24-program/target/scala-2.13/classes/ItemRDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ItemRDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/virat/BDT_LAB/bdt-lab/24-program/target/scala-2.13/classes/ItemRDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
